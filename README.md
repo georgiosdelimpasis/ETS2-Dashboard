@@ -1,5 +1,7 @@
 # ETS2 SimHub Dashboard Project
 
+
+
 Current Version: 1.0.0
 
 Welcome to my **SimHub Dashboard** repository! This project includes custom dashboard designed for [SimHub](https://www.simhubdash.com/), enhancing your ETS2 experience with dynamic visuals and telemetry.
